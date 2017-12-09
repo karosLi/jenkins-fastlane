@@ -47,10 +47,10 @@ sudo gem install fir-cli
 https://github.com/karosLi/jenkins-fastlane/blob/master/build.sh
 
 脚本说明：
-> 支持版本号自增长
-> 支持传入自定的宏，用于在代码里使用此预编译的宏来区分开发环境和发布环境
-> 支持自动上传到 fir 和 testflight
-> 上传成功后弹窗提示
+> * 支持版本号自增长
+> * 支持传入自定的宏，用于在代码里使用此预编译的宏来区分开发环境和发布环境
+> * 支持自动上传到 fir 和 testflight
+> * 上传成功后弹窗提示
 
 上传到 fir 的用法：
 
@@ -102,11 +102,11 @@ java -jar jenkins.war
 
 
 ## 参考链接
-http://www.jianshu.com/p/0a113f754c09
-http://www.jianshu.com/p/2f2dcf41667c
-http://www.jianshu.com/p/1a92d87f12f3
-http://www.cocoachina.com/ios/20150728/12733.html
-http://www.infoq.com/cn/articles/ios-code-server-jenkins-travis-fastlane
+* http://www.jianshu.com/p/0a113f754c09
+* http://www.jianshu.com/p/2f2dcf41667c
+* http://www.jianshu.com/p/1a92d87f12f3
+* http://www.cocoachina.com/ios/20150728/12733.html
+* http://www.infoq.com/cn/articles/ios-code-server-jenkins-travis-fastlane
 
 
 
